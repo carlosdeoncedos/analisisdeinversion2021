@@ -30,11 +30,11 @@ Ya que tienes un conocimiento básico de como funciona GitHub:
 
 #Instalando Git
 ===
-Windows
+## Windows
 ---
 * Bajar programa del link  https://git-scm.com/download/win 
 
-Mac
+## Mac
 ---
 * En terminal escribir el siguiente comando:  git --2.32.0
 
