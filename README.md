@@ -16,7 +16,8 @@ CONTENIDO
 * [Cuidado](#cuidado)
 * [Ayuda](#ayuda)
 
-#Aprendiendo a utilizar Git
+#Aprendiendo A Utilizar Git
+
 lskdlksdlskd
 
 #Preparando GitHub
