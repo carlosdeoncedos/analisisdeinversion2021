@@ -10,13 +10,13 @@ CONTENIDO
 ===
 
 
-* [Aprendiendo a utilizar Git](#aprendiendo-a-utilizar-git)
+* [Aprendiendo Git](#aprendiendo-git)
 * [Preparando GitHub](#preparando-github)
 * [Instalando Git](#instalando-git)
 * [Cuidado](#cuidado)
 * [Ayuda](#ayuda)
 
-#Aprendiendo A Utilizar Git
+#Aprendiendo Git
 
 lskdlksdlskd
 
