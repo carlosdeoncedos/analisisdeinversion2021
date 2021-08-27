@@ -13,8 +13,6 @@ CONTENIDO
 * [Aprendiendo Git](#aprendiendo-git)
 * [Preparando GitHub](#preparando-github)
 * [Instalando Git](#instalando-git)
-* [Cuidado](#cuidado)
-* [Ayuda](#ayuda)
 
 #Aprendiendo Git
 ===
@@ -33,20 +31,33 @@ Ya que tienes un conocimiento básico de como funciona GitHub:
 ===
 
 ### Windows
-* Bajar programa del link  https://git-scm.com/download/win 
+Bajar programa del link  https://git-scm.com/download/win 
+
+En caso de que no funcione, puedes instalar el app de GitHub https://desktop.github.com
 
 ### Mac
-* En terminal escribir el siguiente comando:  git --2.32.0
+En terminal escribir el siguiente comando:  git --2.32.0
 
-
-En caso de que no funcione tienes la alternativa de instalarlo utilizando HomeBrew.  Para esto necesitamos instalar primero HomeBrew:
+En caso de que no funcione tienes dos alternativa más:
+#### Alternativa 1: Instalar HomeBrew y después Git
+Para esto necesitamos instalar primero HomeBrew:
 * En terminal escribir el siguiente comando: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 * Te preguntará que si estás de acuerdo, a lo cual contesta que sí
 * Al finalizar la instalación ingresa el siguiente comando en la terminal:  brew install git
 
-#Cuidado
-===
-adfadsfadf
+#### Alternativa 2:  Instalar app de GitHub
+Bajar app de la siguiente dirección:  https://desktop.github.com
 
-#Ayuda
-===
+### Afinando GitHub
+Sigue los siguientes pasos:
+1. En la terminal o en cmd, cambiar de directorio al directorio en donde guardarás los avances de clases.  Por ejemplo:
+  * Mac: '~cd/DropBox/Maestria/MF013/'
+  * Win: 'cd/DropBox/Maestria/MF013'
+2. 'git clone'
+
+Cada vez que quieras actualizar las libretas solo debes de ingresar en la terminal/cmd el siguiente comando:
+* 'git pull'
+
+
+### Listo
+Cada vez que quieras actu
