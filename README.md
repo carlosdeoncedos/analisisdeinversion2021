@@ -35,6 +35,8 @@ Windows:
 
 Mac:
 * En terminal escribir el siguiente comando:  git --2.32.0
+
+
 En caso de que no funcione tienes la alternativa de instalarlo utilizando HomeBrew.  Para esto necesitamos instalar primero HomeBrew:
 * En terminal escribir el siguiente comando: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 * Te preguntará que si estás de acuerdo, a lo cual contesta que sí
