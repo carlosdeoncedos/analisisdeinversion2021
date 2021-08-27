@@ -28,15 +28,14 @@ Ya que tienes un conocimiento básico de como funciona GitHub:
 * Da de alta un usuario en GitHub (en caso de que no cuentes con uno).
 * Instala Git
 
-===
+
 #Instalando Git
+===
 
 ### Windows
----
 * Bajar programa del link  https://git-scm.com/download/win 
 
 ### Mac
----
 * En terminal escribir el siguiente comando:  git --2.32.0
 
 
