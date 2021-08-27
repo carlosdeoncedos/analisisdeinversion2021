@@ -17,6 +17,7 @@ CONTENIDO
 * [Ayuda](#ayuda)
 
 #Aprendiendo Git
+---
 
 lskdlksdlskd
 
