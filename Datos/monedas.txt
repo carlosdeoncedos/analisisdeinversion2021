@@ -1,3 +1,4 @@
+monedas = {
 'afganistan':'afgani afgano',
 'albania':'lek',
 'alemania':'euro',
@@ -265,4 +266,4 @@
 'yemen':'rial yemeni',
 'yibuti':'franco yibutiano',
 'zambia':'kwacha zambiano',
-'zimbabue':'dolar zimbabuense',
+'zimbabue':'dolar zimbabuense'}
