@@ -28,3 +28,8 @@ def importar_bloomberg(accion):
     return df
 
 
+def retornos(dataframe):
+    dataframe['Retornos'] = np.log(dataframe['Cierre'] / dataframe['Cierre'].shift(1))
+    
+    return dataframe
+
